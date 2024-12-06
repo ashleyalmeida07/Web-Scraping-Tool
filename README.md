@@ -32,7 +32,7 @@ short descriptions for libraries:
    A foundational library for numerical computing in Python. It offers support for multi-dimensional 
    arrays, mathematical functions, and linear algebra operations, making it a core component for scientific 
    computing and data analysis.
+
    
-3.
 Scraping takes 1 - 2 minutes of time.
 
